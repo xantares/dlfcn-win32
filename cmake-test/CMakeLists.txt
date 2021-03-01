@@ -3,7 +3,7 @@
 # as part of the main dlfcn-win32 project 
 project(dlfcn-win32-test)
 
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.2)
 
 find_package(dlfcn-win32 REQUIRED)
 
